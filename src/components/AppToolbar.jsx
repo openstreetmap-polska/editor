@@ -220,7 +220,7 @@ export default class AppToolbar extends React.Component {
             <span dangerouslySetInnerHTML={{__html: logoImage}} />
             <h1>
               <span className="maputnik-toolbar-name">{pkgJson.name}</span>
-              <span className="maputnik-toolbar-version">v{pkgJson.version}</span>
+              <span className="maputnik-toolbar-version">v{pkgJson.version_long}</span>
             </h1>
           </a>
         </div>

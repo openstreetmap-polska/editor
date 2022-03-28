@@ -1,5 +1,11 @@
 [
   {
+    "id": "aed-mapa-style",
+    "title": "AED mapa",
+    "url": "https://aed.openstreetmap.org.pl/dev/src/map_style/style.json",
+    "thumbnail": "https://aed.openstreetmap.org.pl/maputnik/thumbnail-aed-mapa.png"
+  },
+  {
     "id": "osm-liberty",
     "title": "OSM Liberty",
     "url": "https://maputnik.github.io/osm-liberty/style.json",
