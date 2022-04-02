@@ -2,7 +2,7 @@
   {
     "id": "aed-mapa-style",
     "title": "AED mapa",
-    "url": "https://aed.openstreetmap.org.pl/dev/src/map_style/style.json",
+    "url": "https://aed.openstreetmap.org.pl/dev/map_style/style.json",
     "thumbnail": "https://aed.openstreetmap.org.pl/maputnik/thumbnail-aed-mapa.png"
   },
   {
